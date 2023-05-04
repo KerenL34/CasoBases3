@@ -1,0 +1,14 @@
+{
+  "version": "2.0",
+  "name": "Caso3BasesDeDatos",
+  "id": "0eb51482-86bf-4bf9-9bde-55f931a036d0",
+  "databaseType": "SqlServer",
+  "development": {
+    "scriptsFolder": "./schema-model"
+  },
+  "deployment": {
+    "flywayConfFiles": [
+      "./flyway.conf"
+    ]
+  }
+}

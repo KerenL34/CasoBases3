@@ -1,0 +1,43 @@
+{
+  "individualResults": [
+    {
+      "schemaVersion": null,
+      "schemaName": "",
+      "migrations": [],
+      "flywayVersion": "9.17.0",
+      "database": "",
+      "allSchemasEmpty": true,
+      "timestamp": "2023-05-03T23:45:20.459980100",
+      "operation": "info",
+      "exception": null,
+      "licenseFailed": false
+    },
+    {
+      "schemaVersion": null,
+      "schemaName": "",
+      "migrations": [
+        {
+          "category": "Versioned",
+          "version": "1",
+          "rawVersion": "1",
+          "description": "V1  Brands table",
+          "type": "SQL",
+          "installedOnUTC": "",
+          "state": "Pending",
+          "undoable": "No",
+          "filepath": "C:\\Users\\Keren Fuentes\\Desktop\\GitHub\\CasoBases3\\Caso3BasesDeDatos\\migrations\\V1__V1__Brands_table.sql",
+          "undoFilepath": "",
+          "installedBy": "",
+          "executionTime": 0
+        }
+      ],
+      "flywayVersion": "9.17.0",
+      "database": "",
+      "allSchemasEmpty": true,
+      "timestamp": "2023-05-03T23:46:24.711902600",
+      "operation": "info",
+      "exception": null,
+      "licenseFailed": false
+    }
+  ]
+}
